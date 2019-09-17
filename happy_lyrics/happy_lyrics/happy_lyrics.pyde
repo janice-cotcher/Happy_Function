@@ -9,7 +9,6 @@ def chorus():
     print("Clap along if you feel like that's what you wanna do \n")
 
 
-
 print("Happy - Pharrell Williams \n")
 print('''It might seem crazy what I'm 'bout to say
 Sunshine she's here, you can take a break
@@ -20,8 +19,8 @@ Huh,''')
 chorus()
 
 print('''Here come bad news, talking this and that
-(Yeah) Well, give me all you got, and don't hold it back 
-(Yeah) Well, I should probably warn you I'll be just fine 
+(Yeah) Well, give me all you got, and don't hold it back
+(Yeah) Well, I should probably warn you I'll be just fine
 (Yeah) No offense to you, don't waste your time
 Here's why \n''')
 
