@@ -1,3 +1,4 @@
+# prints Happy lyrics
 def chorus():
     """Chorus for the song Happy"""
     print("Because I'm happy")
