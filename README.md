@@ -1,2 +1,2 @@
 # happy
-Examples of a function in Processing using the song Happy by Pharell
+Examples of a function in Python using the song Happy by Pharell
